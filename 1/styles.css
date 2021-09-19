@@ -1,0 +1,123 @@
+tr {
+	border:grey double 1px;
+    text-align: center;	
+}
+
+			td {
+	border:pink solid 1px;
+    text-align: center;	
+	vertical-align:bottom;
+	width: 45px;
+    height: 35px;
+}
+
+a {		
+	color:red; 		
+}
+
+div.main {  
+	width: 31.1%;
+	margin-left: auto;
+    margin-right: auto;	
+	margin-bottom: 0;	
+	padding: 28px 28px 10px 28px;
+    color:white;
+    background-color: blue;  
+	font-family: Arial;
+    font-size: 21px;	
+}
+
+div.outer {
+    width: 120px;
+    height: 120px;
+	border-bottom-right-radius:30px;
+	border-top-left-radius:15px;
+    margin: 5px 25px 30px 5px;;    
+    border: 6px solid white;
+    background-color: blue;  
+    float: left;
+}    
+
+table {                
+    border: pink solid 1px; 
+    border-collapse: separate;                
+    border-spacing: 5px; 
+    table-layout: fixed;
+    width: 160px; 
+    float: right;   	
+}
+
+ul {
+    margin-top: 0;
+}
+
+li {
+    line-height: 1.8em;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    word-spacing: 9px;
+    font-size: 34px;
+    font-weight: 700;
+}
+
+h3 {
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.tab {
+	width: 28px;
+    height: 28px;
+    float: right; 
+	margin-top: 5px;
+	
+}
+.size {
+    margin: 0px 0px 20px 0px; 
+}
+.bot {
+    vertical-align:bottom;
+}
+
+.footer {
+    background-color:green;
+    color:white;
+    text-align:center;	
+	font-family: 'Trebuchet MS';
+	font-size: 21px;
+	padding: 10px;	
+}
+.header {
+    background-color:green;
+    color:white;
+    text-align:center;    
+	font-family: 'Courier New';
+	font-size: 21px;
+	padding: 10px;
+}   
+
+.centered{
+text-align:center;
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+.down{
+padding-top: 5px;
+}
+
+
+ul.visual{
+	line-height: 1.8em;
+    list-style: none;
+    padding: 0;
+}
+
+
+.val2 {
+    color: cyan;
+    letter-spacing: 6px;
+}
